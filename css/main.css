@@ -1,0 +1,16 @@
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+.task label.checked {
+  text-decoration: line-through;
+}
+
+.filters span.active {
+  color: blue;
+}
+
+.filters span {
+  cursor: pointer;
+  font-size: 15px;
+}/*# sourceMappingURL=main.css.map */
